@@ -1,0 +1,488 @@
+[Thu May 09 11:13:06.797041 2024] [mpm_winnt:notice] [pid 18080:tid 356] AH00455: Apache/2.4.59 (Win64) configured -- resuming normal operations
+[Thu May 09 11:13:06.798041 2024] [mpm_winnt:notice] [pid 18080:tid 356] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 09 11:13:06.798041 2024] [core:notice] [pid 18080:tid 356] AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24'
+[Thu May 09 11:13:06.800546 2024] [mpm_winnt:notice] [pid 18080:tid 356] AH00418: Parent: Created child process 16388
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 16388:tid 356] AH00354: Child: Starting 64 worker threads.
+[Thu May 09 11:13:53.796613 2024] [mpm_winnt:notice] [pid 18080:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 09 11:13:55.913493 2024] [mpm_winnt:notice] [pid 16388:tid 356] AH00364: Child: All worker threads have exited.
+[Thu May 09 11:13:55.930719 2024] [mpm_winnt:notice] [pid 18080:tid 356] AH00430: Parent: Child process 16388 exited successfully.
+[Thu May 09 11:19:04.997512 2024] [mpm_winnt:notice] [pid 17204:tid 404] AH00455: Apache/2.4.59 (Win64) configured -- resuming normal operations
+[Thu May 09 11:19:04.997512 2024] [mpm_winnt:notice] [pid 17204:tid 404] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 09 11:19:04.997512 2024] [core:notice] [pid 17204:tid 404] AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24'
+[Thu May 09 11:19:05.000029 2024] [mpm_winnt:notice] [pid 17204:tid 404] AH00418: Parent: Created child process 11104
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 11104:tid 356] AH00354: Child: Starting 64 worker threads.
+[Thu May 09 11:19:07.199596 2024] [mpm_winnt:notice] [pid 17204:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 09 11:19:09.222281 2024] [mpm_winnt:notice] [pid 11104:tid 356] AH00364: Child: All worker threads have exited.
+[Thu May 09 11:19:09.240553 2024] [mpm_winnt:notice] [pid 17204:tid 404] AH00430: Parent: Child process 11104 exited successfully.
+[Thu May 09 11:31:50.919196 2024] [mpm_winnt:notice] [pid 15504:tid 368] AH00455: Apache/2.4.59 (Win64) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Thu May 09 11:31:50.919196 2024] [mpm_winnt:notice] [pid 15504:tid 368] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 09 11:31:50.919196 2024] [core:notice] [pid 15504:tid 368] AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24'
+[Thu May 09 11:31:50.922197 2024] [mpm_winnt:notice] [pid 15504:tid 368] AH00418: Parent: Created child process 16848
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 16848:tid 372] AH00354: Child: Starting 64 worker threads.
+[Thu May 09 11:36:01.723896 2024] [fcgid:warn] [pid 16848:tid 1004] [client ::1:52480] mod_fcgid: stderr: PHP Warning:  Undefined array key "CONTENT_TYPE" in D:\\Angelp\\www\\Apache\\Apache24\\htdocs\\functions\\utils.php on line 3
+[Thu May 09 11:36:37.176550 2024] [fcgid:warn] [pid 16848:tid 1004] [client ::1:52487] mod_fcgid: stderr: PHP Warning:  Undefined array key "CONTENT_TYPE" in D:\\Angelp\\www\\Apache\\Apache24\\htdocs\\functions\\utils.php on line 3
+[Thu May 09 11:36:37.176550 2024] [fcgid:warn] [pid 16848:tid 1004] [client ::1:52487] mod_fcgid: stderr: PHP Warning:  Undefined array key "CONTENT_TYPE" in D:\\Angelp\\www\\Apache\\Apache24\\htdocs\\functions\\utils.php on line 4
+[Thu May 09 11:36:47.425757 2024] [fcgid:warn] [pid 16848:tid 1004] [client ::1:52489] mod_fcgid: stderr: PHP Warning:  Undefined array key "CONTENT_TYPE" in D:\\Angelp\\www\\Apache\\Apache24\\htdocs\\functions\\utils.php on line 3
+[Thu May 09 11:38:34.738943 2024] [fcgid:warn] [pid 16848:tid 996] [client ::1:52579] mod_fcgid: stderr: PHP Warning:  Undefined array key "CONTENT_TYPE" in D:\\Angelp\\www\\Apache\\Apache24\\htdocs\\functions\\utils.php on line 3
+[Thu May 09 11:39:03.677201 2024] [fcgid:warn] [pid 16848:tid 996] [client ::1:52581] mod_fcgid: stderr: PHP Warning:  Undefined array key "CONTENT_TYPE" in D:\\Angelp\\www\\Apache\\Apache24\\htdocs\\functions\\utils.php on line 3
+[Thu May 09 11:40:19.174894 2024] [fcgid:warn] [pid 16848:tid 1004] [client ::1:52608] mod_fcgid: stderr: PHP Warning:  Undefined array key "CONTENT_TYPE" in D:\\Angelp\\www\\Apache\\Apache24\\htdocs\\functions\\utils.php on line 3
+[Thu May 09 11:54:13.893558 2024] [mpm_winnt:notice] [pid 15504:tid 368] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 09 11:54:15.915916 2024] [mpm_winnt:notice] [pid 16848:tid 372] AH00364: Child: All worker threads have exited.
+[Thu May 09 11:54:16.342067 2024] [mpm_winnt:notice] [pid 15504:tid 368] AH00430: Parent: Child process 16848 exited successfully.
+[Thu May 09 11:54:18.829524 2024] [mpm_winnt:notice] [pid 2148:tid 356] AH00455: Apache/2.4.59 (Win64) configured -- resuming normal operations
+[Thu May 09 11:54:18.829524 2024] [mpm_winnt:notice] [pid 2148:tid 356] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 09 11:54:18.829524 2024] [core:notice] [pid 2148:tid 356] AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24'
+[Thu May 09 11:54:18.832531 2024] [mpm_winnt:notice] [pid 2148:tid 356] AH00418: Parent: Created child process 6276
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 6276:tid 360] AH00354: Child: Starting 64 worker threads.
+[Thu May 09 12:06:49.904842 2024] [mpm_winnt:notice] [pid 2148:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 09 12:06:51.919987 2024] [mpm_winnt:notice] [pid 6276:tid 360] AH00364: Child: All worker threads have exited.
+[Thu May 09 12:06:51.938403 2024] [mpm_winnt:notice] [pid 2148:tid 356] AH00430: Parent: Child process 6276 exited successfully.
+[Thu May 09 12:08:18.287538 2024] [mpm_winnt:notice] [pid 772:tid 408] AH00455: Apache/2.4.59 (Win64) configured -- resuming normal operations
+[Thu May 09 12:08:18.287538 2024] [mpm_winnt:notice] [pid 772:tid 408] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 09 12:08:18.287538 2024] [core:notice] [pid 772:tid 408] AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24'
+[Thu May 09 12:08:18.291052 2024] [mpm_winnt:notice] [pid 772:tid 408] AH00418: Parent: Created child process 16804
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 16804:tid 356] AH00354: Child: Starting 64 worker threads.
+[Thu May 09 12:09:25.070489 2024] [mpm_winnt:notice] [pid 772:tid 408] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 09 12:09:27.093098 2024] [mpm_winnt:notice] [pid 16804:tid 356] AH00364: Child: All worker threads have exited.
+[Thu May 09 12:09:27.110521 2024] [mpm_winnt:notice] [pid 772:tid 408] AH00430: Parent: Child process 16804 exited successfully.
+[Thu May 09 12:09:36.410799 2024] [mpm_winnt:notice] [pid 17016:tid 360] AH00455: Apache/2.4.59 (Win64) configured -- resuming normal operations
+[Thu May 09 12:09:36.411831 2024] [mpm_winnt:notice] [pid 17016:tid 360] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 09 12:09:36.411831 2024] [core:notice] [pid 17016:tid 360] AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24'
+[Thu May 09 12:09:36.414839 2024] [mpm_winnt:notice] [pid 17016:tid 360] AH00418: Parent: Created child process 17928
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 17928:tid 356] AH00354: Child: Starting 64 worker threads.
+[Thu May 09 12:10:14.877701 2024] [mpm_winnt:notice] [pid 17016:tid 360] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 09 12:10:16.898638 2024] [mpm_winnt:notice] [pid 17928:tid 356] AH00364: Child: All worker threads have exited.
+[Thu May 09 12:10:16.917668 2024] [mpm_winnt:notice] [pid 17016:tid 360] AH00430: Parent: Child process 17928 exited successfully.
+[Thu May 09 12:10:19.997929 2024] [mpm_winnt:notice] [pid 18640:tid 372] AH00455: Apache/2.4.59 (Win64) configured -- resuming normal operations
+[Thu May 09 12:10:19.997929 2024] [mpm_winnt:notice] [pid 18640:tid 372] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 09 12:10:19.997929 2024] [core:notice] [pid 18640:tid 372] AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24'
+[Thu May 09 12:10:20.001436 2024] [mpm_winnt:notice] [pid 18640:tid 372] AH00418: Parent: Created child process 15080
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 15080:tid 356] AH00354: Child: Starting 64 worker threads.
+[Thu May 09 12:11:01.372420 2024] [mpm_winnt:notice] [pid 18640:tid 372] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 09 12:11:03.397725 2024] [mpm_winnt:notice] [pid 15080:tid 356] AH00364: Child: All worker threads have exited.
+[Thu May 09 12:11:03.414758 2024] [mpm_winnt:notice] [pid 18640:tid 372] AH00430: Parent: Child process 15080 exited successfully.
+[Thu May 09 12:11:08.707046 2024] [mpm_winnt:notice] [pid 17444:tid 356] AH00455: Apache/2.4.59 (Win64) configured -- resuming normal operations
+[Thu May 09 12:11:08.707046 2024] [mpm_winnt:notice] [pid 17444:tid 356] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 09 12:11:08.707046 2024] [core:notice] [pid 17444:tid 356] AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24'
+[Thu May 09 12:11:08.710052 2024] [mpm_winnt:notice] [pid 17444:tid 356] AH00418: Parent: Created child process 7040
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 7040:tid 356] AH00354: Child: Starting 64 worker threads.
+[Thu May 09 12:19:06.229053 2024] [mpm_winnt:notice] [pid 17444:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 09 12:19:08.246961 2024] [mpm_winnt:notice] [pid 7040:tid 356] AH00364: Child: All worker threads have exited.
+[Thu May 09 12:19:08.264932 2024] [mpm_winnt:notice] [pid 17444:tid 356] AH00430: Parent: Child process 7040 exited successfully.
+[Thu May 09 12:19:11.490480 2024] [mpm_winnt:notice] [pid 17756:tid 356] AH00455: Apache/2.4.59 (Win64) configured -- resuming normal operations
+[Thu May 09 12:19:11.490480 2024] [mpm_winnt:notice] [pid 17756:tid 356] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 09 12:19:11.490480 2024] [core:notice] [pid 17756:tid 356] AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24'
+[Thu May 09 12:19:11.493480 2024] [mpm_winnt:notice] [pid 17756:tid 356] AH00418: Parent: Created child process 288
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 288:tid 396] AH00354: Child: Starting 64 worker threads.
+[Thu May 09 12:22:21.513540 2024] [mpm_winnt:notice] [pid 17756:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 09 12:22:23.528103 2024] [mpm_winnt:notice] [pid 288:tid 396] AH00364: Child: All worker threads have exited.
+[Thu May 09 12:22:23.545646 2024] [mpm_winnt:notice] [pid 17756:tid 356] AH00430: Parent: Child process 288 exited successfully.
+[Thu May 09 12:22:25.506276 2024] [mpm_winnt:notice] [pid 8340:tid 356] AH00455: Apache/2.4.59 (Win64) configured -- resuming normal operations
+[Thu May 09 12:22:25.506276 2024] [mpm_winnt:notice] [pid 8340:tid 356] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 09 12:22:25.506276 2024] [core:notice] [pid 8340:tid 356] AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24'
+[Thu May 09 12:22:25.510274 2024] [mpm_winnt:notice] [pid 8340:tid 356] AH00418: Parent: Created child process 16016
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 16016:tid 376] AH00354: Child: Starting 64 worker threads.
+[Thu May 09 12:22:53.273241 2024] [mpm_winnt:notice] [pid 8340:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 09 12:22:55.289464 2024] [mpm_winnt:notice] [pid 16016:tid 376] AH00364: Child: All worker threads have exited.
+[Thu May 09 12:22:55.306996 2024] [mpm_winnt:notice] [pid 8340:tid 356] AH00430: Parent: Child process 16016 exited successfully.
+[Thu May 09 12:22:57.288220 2024] [mpm_winnt:notice] [pid 3992:tid 376] AH00455: Apache/2.4.59 (Win64) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Thu May 09 12:22:57.288751 2024] [mpm_winnt:notice] [pid 3992:tid 376] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 09 12:22:57.288751 2024] [core:notice] [pid 3992:tid 376] AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24'
+[Thu May 09 12:22:57.291369 2024] [mpm_winnt:notice] [pid 3992:tid 376] AH00418: Parent: Created child process 18376
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 18376:tid 380] AH00354: Child: Starting 64 worker threads.
+[Thu May 09 12:25:04.038943 2024] [mpm_winnt:notice] [pid 3992:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 09 12:25:06.049390 2024] [mpm_winnt:notice] [pid 18376:tid 380] AH00364: Child: All worker threads have exited.
+[Thu May 09 12:25:14.496328 2024] [fcgid:error] [pid 18376] FastCGI process 19452 still did not exit, terminating forcefully
+[Thu May 09 12:25:15.503217 2024] [mpm_winnt:notice] [pid 3992:tid 376] AH00430: Parent: Child process 18376 exited successfully.
+[Thu May 09 12:25:18.718511 2024] [mpm_winnt:notice] [pid 15288:tid 356] AH00455: Apache/2.4.59 (Win64) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Thu May 09 12:25:18.718511 2024] [mpm_winnt:notice] [pid 15288:tid 356] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 09 12:25:18.718511 2024] [core:notice] [pid 15288:tid 356] AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24'
+[Thu May 09 12:25:18.721501 2024] [mpm_winnt:notice] [pid 15288:tid 356] AH00418: Parent: Created child process 16660
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 16660:tid 352] AH00354: Child: Starting 64 worker threads.
+[Thu May 09 12:27:48.595816 2024] [mpm_winnt:notice] [pid 15288:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 09 12:27:50.605549 2024] [mpm_winnt:notice] [pid 16660:tid 352] AH00364: Child: All worker threads have exited.
+[Thu May 09 12:27:59.049746 2024] [fcgid:error] [pid 16660] FastCGI process 10800 still did not exit, terminating forcefully
+[Thu May 09 12:28:00.060887 2024] [mpm_winnt:notice] [pid 15288:tid 356] AH00430: Parent: Child process 16660 exited successfully.
+[Thu May 09 12:28:04.135902 2024] [mpm_winnt:notice] [pid 15104:tid 372] AH00455: Apache/2.4.59 (Win64) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Thu May 09 12:28:04.135902 2024] [mpm_winnt:notice] [pid 15104:tid 372] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 09 12:28:04.135902 2024] [core:notice] [pid 15104:tid 372] AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24'
+[Thu May 09 12:28:04.138902 2024] [mpm_winnt:notice] [pid 15104:tid 372] AH00418: Parent: Created child process 14076
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 14076:tid 368] AH00354: Child: Starting 64 worker threads.
+[Thu May 09 12:28:46.090796 2024] [mpm_winnt:notice] [pid 15104:tid 372] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+14076:tid 368] AH00364: Child: All worker threads have exited.
+[Thu May 09 12:29:14.067466 2024] [fcgid:error] [pid 14076] FastCGI process 17444 still did not exit, terminating forcefully
+[Thu May 09 12:29:15.074422 2024] [mpm_winnt:notice] [pid 15104:tid 372] AH00430: Parent: Child process 14076 exited successfully.
+[Thu May 09 12:30:04.818705 2024] [mpm_winnt:notice] [pid 18624:tid 380] AH00455: Apache/2.4.59 (Win64) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Thu May 09 12:30:04.819702 2024] [mpm_winnt:notice] [pid 18624:tid 380] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 09 12:30:04.819702 2024] [core:notice] [pid 18624:tid 380] AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24'
+[Thu May 09 12:30:04.821697 2024] [mpm_winnt:notice] [pid 18624:tid 380] AH00418: Parent: Created child process 18632
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 18632:tid 356] AH00354: Child: Starting 64 worker threads.
+[Thu May 09 12:30:49.673013 2024] [mpm_winnt:notice] [pid 18624:tid 380] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 09 12:30:51.694040 2024] [mpm_winnt:notice] [pid 18632:tid 356] AH00364: Child: All worker threads have exited.
+[Thu May 09 12:31:00.142062 2024] [fcgid:error] [pid 18632] FastCGI process 2404 still did not exit, terminating forcefully
+[Thu May 09 12:31:01.159798 2024] [mpm_winnt:notice] [pid 18624:tid 380] AH00430: Parent: Child process 18632 exited successfully.
+AH00455: Apache/2.4.59 (Win64) configured -- resuming normal operations Script
+AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17 Script
+AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24' Script
+AH00418: Parent: Created child process 18604 Script
+Apache server interrupted...
+orker threads. Script
+AH00422: Parent: Received shutdown signal -- Shutting down the server. Script
+AH00364: Child: All worker threads have exited. Script
+AH00430: Parent: Child process 18604 exited successfully. Script
+[Thu May 09 12:36:00.568966 2024] [mpm_winnt:notice] [pid 19268:tid 404] AH00455: Apache/2.4.59 (Win64) configured -- resuming normal operations
+[Thu May 09 12:36:00.568966 2024] [mpm_winnt:notice] [pid 19268:tid 404] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 09 12:36:00.568966 2024] [core:notice] [pid 19268:tid 404] AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24'
+[Thu May 09 12:36:00.571476 2024] [mpm_winnt:notice] [pid 19268:tid 404] AH00418: Parent: Created child process 13260
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 13260:tid 364] AH00354: Child: Starting 64 worker threads.
+[Thu May 09 12:37:28.138670 2024] [mpm_winnt:notice] [pid 19268:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 09 12:37:30.160476 2024] [mpm_winnt:notice] [pid 13260:tid 364] AH00364: Child: All worker threads have exited.
+[Thu May 09 12:37:30.178828 2024] [mpm_winnt:notice] [pid 19268:tid 404] AH00430: Parent: Child process 13260 exited successfully.
+[Thu May 09 12:37:34.723703 2024] [mpm_winnt:notice] [pid 15504:tid 356] AH00455: Apache/2.4.59 (Win64) configured -- resuming normal operations
+[Thu May 09 12:37:34.723703 2024] [mpm_winnt:notice] [pid 15504:tid 356] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 09 12:37:34.723703 2024] [core:notice] [pid 15504:tid 356] AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24'
+[Thu May 09 12:37:34.726705 2024] [mpm_winnt:notice] [pid 15504:tid 356] AH00418: Parent: Created child process 18860
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 18860:tid 360] AH00354: Child: Starting 64 worker threads.
+[Thu May 09 12:37:54.001605 2024] [mpm_winnt:notice] [pid 15504:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 09 12:37:56.016336 2024] [mpm_winnt:notice] [pid 18860:tid 360] AH00364: Child: All worker threads have exited.
+[Thu May 09 12:37:56.034170 2024] [mpm_winnt:notice] [pid 15504:tid 356] AH00430: Parent: Child process 18860 exited successfully.
+[Thu May 09 12:42:44.622850 2024] [mpm_winnt:notice] [pid 17836:tid 368] AH00455: Apache/2.4.59 (Win64) configured -- resuming normal operations
+[Thu May 09 12:42:44.622850 2024] [mpm_winnt:notice] [pid 17836:tid 368] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 09 12:42:44.622850 2024] [core:notice] [pid 17836:tid 368] AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24'
+[Thu May 09 12:42:44.625849 2024] [mpm_winnt:notice] [pid 17836:tid 368] AH00418: Parent: Created child process 9236
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 9236:tid 352] AH00354: Child: Starting 64 worker threads.
+[Thu May 09 12:43:26.084777 2024] [mpm_winnt:notice] [pid 17836:tid 368] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 09 12:43:28.095012 2024] [mpm_winnt:notice] [pid 9236:tid 352] AH00364: Child: All worker threads have exited.
+[Thu May 09 12:43:28.112649 2024] [mpm_winnt:notice] [pid 17836:tid 368] AH00430: Parent: Child process 9236 exited successfully.
+[Thu May 09 12:43:31.877019 2024] [mpm_winnt:notice] [pid 18476:tid 396] AH00455: Apache/2.4.59 (Win64) configured -- resuming normal operations
+[Thu May 09 12:43:31.877019 2024] [mpm_winnt:notice] [pid 18476:tid 396] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 09 12:43:31.877019 2024] [core:notice] [pid 18476:tid 396] AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24'
+[Thu May 09 12:43:31.879535 2024] [mpm_winnt:notice] [pid 18476:tid 396] AH00418: Parent: Created child process 16480
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 16480:tid 372] AH00354: Child: Starting 64 worker threads.
+[Thu May 09 12:44:25.227731 2024] [mpm_winnt:notice] [pid 18476:tid 396] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+[Thu May 09 12:44:27.241899 2024] [mpm_winnt:notice] [pid 16480:tid 372] AH00364: Child: All worker threads have exited.
+[Thu May 09 12:44:27.260974 2024] [mpm_winnt:notice] [pid 18476:tid 396] AH00430: Parent: Child process 16480 exited successfully.
+[Thu May 09 12:44:28.575122 2024] [mpm_winnt:notice] [pid 15504:tid 388] AH00455: Apache/2.4.59 (Win64) configured -- resuming normal operations
+[Thu May 09 12:44:28.575122 2024] [mpm_winnt:notice] [pid 15504:tid 388] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 09 12:44:28.575122 2024] [core:notice] [pid 15504:tid 388] AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24'
+[Thu May 09 12:44:28.578118 2024] [mpm_winnt:notice] [pid 15504:tid 388] AH00418: Parent: Created child process 18948
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 18948:tid 400] AH00354: Child: Starting 64 worker threads.
+[Thu May 09 12:45:15.818875 2024] [mpm_winnt:notice] [pid 15504:tid 388] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+[Thu May 09 12:45:27.368068 2024] [mpm_winnt:notice] [pid 18948:tid 400] AH00364: Child: All worker threads have exited.
+[Thu May 09 12:45:27.386731 2024] [mpm_winnt:notice] [pid 15504:tid 388] AH00430: Parent: Child process 18948 exited successfully.
+[Thu May 09 12:45:30.863577 2024] [mpm_winnt:notice] [pid 8548:tid 388] AH00455: Apache/2.4.59 (Win64) configured -- resuming normal operations
+[Thu May 09 12:45:30.863577 2024] [mpm_winnt:notice] [pid 8548:tid 388] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 09 12:45:30.863577 2024] [core:notice] [pid 8548:tid 388] AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24'
+[Thu May 09 12:45:30.866588 2024] [mpm_winnt:notice] [pid 8548:tid 388] AH00418: Parent: Created child process 9580
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 9580:tid 436] AH00354: Child: Starting 64 worker threads.
+[Thu May 09 12:46:11.249959 2024] [mpm_winnt:notice] [pid 8548:tid 388] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+[Thu May 09 12:46:17.525422 2024] [mpm_winnt:notice] [pid 9580:tid 436] AH00364: Child: All worker threads have exited.
+[Thu May 09 12:46:17.542932 2024] [mpm_winnt:notice] [pid 8548:tid 388] AH00430: Parent: Child process 9580 exited successfully.
+[Thu May 09 12:46:22.695729 2024] [mpm_winnt:notice] [pid 4116:tid 356] AH00455: Apache/2.4.59 (Win64) configured -- resuming normal operations
+[Thu May 09 12:46:22.695729 2024] [mpm_winnt:notice] [pid 4116:tid 356] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 09 12:46:22.695729 2024] [core:notice] [pid 4116:tid 356] AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24'
+[Thu May 09 12:46:22.698737 2024] [mpm_winnt:notice] [pid 4116:tid 356] AH00418: Parent: Created child process 6696
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 6696:tid 420] AH00354: Child: Starting 64 worker threads.
+[Thu May 09 12:47:55.824358 2024] [mpm_winnt:notice] [pid 4116:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+[Thu May 09 12:47:57.840588 2024] [mpm_winnt:notice] [pid 6696:tid 420] AH00364: Child: All worker threads have exited.
+[Thu May 09 12:47:57.858955 2024] [mpm_winnt:notice] [pid 4116:tid 356] AH00430: Parent: Child process 6696 exited successfully.
+[Thu May 09 12:47:59.180198 2024] [core:warn] [pid 7328:tid 356] AH00111: Config variable ${REQUEST_TIME} is not defined
+[Thu May 09 12:47:59.201644 2024] [mpm_winnt:notice] [pid 7328:tid 356] AH00455: Apache/2.4.59 (Win64) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Thu May 09 12:47:59.202632 2024] [mpm_winnt:notice] [pid 7328:tid 356] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 09 12:47:59.202632 2024] [core:notice] [pid 7328:tid 356] AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24'
+[Thu May 09 12:47:59.204631 2024] [mpm_winnt:notice] [pid 7328:tid 356] AH00418: Parent: Created child process 7936
+[Thu May 09 12:47:59.398048 2024] [core:warn] [pid 7936:tid 352] AH00111: Config variable ${REQUEST_TIME} is not defined
+Apache server interrupted...
+024] [core:warn] [pid 7936:tid 352] AH00111: Config variable ${REQUEST_TIME} is not defined
+[Thu May 09 12:47:59.443801 2024] [mpm_winnt:notice] [pid 7936:tid 352] AH00354: Child: Starting 64 worker threads.
+[Thu May 09 12:52:47.810936 2024] [mpm_winnt:notice] [pid 7328:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+7936:tid 352] AH00364: Child: All worker threads have exited.
+[Thu May 09 12:52:50.586232 2024] [mpm_winnt:notice] [pid 7328:tid 356] AH00430: Parent: Child process 7936 exited successfully.
+[Thu May 09 12:52:52.909790 2024] [core:warn] [pid 4208:tid 356] AH00111: Config variable ${REQUEST_TIME} is not defined
+[Thu May 09 12:52:52.939008 2024] [mpm_winnt:notice] [pid 4208:tid 356] AH00455: Apache/2.4.59 (Win64) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Thu May 09 12:52:52.939008 2024] [mpm_winnt:notice] [pid 4208:tid 356] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 09 12:52:52.939008 2024] [core:notice] [pid 4208:tid 356] AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24'
+[Thu May 09 12:52:52.941519 2024] [mpm_winnt:notice] [pid 4208:tid 356] AH00418: Parent: Created child process 11916
+[Thu May 09 12:52:53.133412 2024] [core:warn] [pid 11916:tid 388] AH00111: Config variable ${REQUEST_TIME} is not defined
+Apache server interrupted...
+024] [core:warn] [pid 11916:tid 388] AH00111: Config variable ${REQUEST_TIME} is not defined
+[Thu May 09 12:52:53.197363 2024] [mpm_winnt:notice] [pid 11916:tid 388] AH00354: Child: Starting 64 worker threads.
+[Thu May 09 12:53:17.354992 2024] [mpm_winnt:notice] [pid 4208:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+[Thu May 09 12:53:19.377822 2024] [mpm_winnt:notice] [pid 11916:tid 388] AH00364: Child: All worker threads have exited.
+[Thu May 09 12:53:19.427451 2024] [mpm_winnt:notice] [pid 4208:tid 356] AH00430: Parent: Child process 11916 exited successfully.
+[Thu May 09 12:53:23.418951 2024] [mpm_winnt:notice] [pid 18584:tid 400] AH00455: Apache/2.4.59 (Win64) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Thu May 09 12:53:23.419954 2024] [mpm_winnt:notice] [pid 18584:tid 400] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 09 12:53:23.419954 2024] [core:notice] [pid 18584:tid 400] AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24'
+[Thu May 09 12:53:23.421949 2024] [mpm_winnt:notice] [pid 18584:tid 400] AH00418: Parent: Created child process 7768
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 7768:tid 376] AH00354: Child: Starting 64 worker threads.
+[Thu May 09 12:53:48.450479 2024] [mpm_winnt:notice] [pid 18584:tid 400] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+[Thu May 09 12:53:50.480211 2024] [mpm_winnt:notice] [pid 7768:tid 376] AH00364: Child: All worker threads have exited.
+[Thu May 09 12:53:50.830884 2024] [mpm_winnt:notice] [pid 18584:tid 400] AH00430: Parent: Child process 7768 exited successfully.
+[Thu May 09 12:53:53.316350 2024] [mpm_winnt:notice] [pid 16888:tid 428] AH00455: Apache/2.4.59 (Win64) configured -- resuming normal operations
+[Thu May 09 12:53:53.316350 2024] [mpm_winnt:notice] [pid 16888:tid 428] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 09 12:53:53.316350 2024] [core:notice] [pid 16888:tid 428] AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24'
+[Thu May 09 12:53:53.319347 2024] [mpm_winnt:notice] [pid 16888:tid 428] AH00418: Parent: Created child process 17760
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 17760:tid 364] AH00354: Child: Starting 64 worker threads.
+[Thu May 09 12:55:14.505019 2024] [mpm_winnt:notice] [pid 16888:tid 428] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+[Thu May 09 12:55:16.530489 2024] [mpm_winnt:notice] [pid 17760:tid 364] AH00364: Child: All worker threads have exited.
+[Thu May 09 12:55:16.548530 2024] [mpm_winnt:notice] [pid 16888:tid 428] AH00430: Parent: Child process 17760 exited successfully.
+[Thu May 09 12:55:23.178389 2024] [mpm_winnt:notice] [pid 19236:tid 376] AH00455: Apache/2.4.59 (Win64) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Thu May 09 12:55:23.178389 2024] [mpm_winnt:notice] [pid 19236:tid 376] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 09 12:55:23.178389 2024] [core:notice] [pid 19236:tid 376] AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24'
+[Thu May 09 12:55:23.181388 2024] [mpm_winnt:notice] [pid 19236:tid 376] AH00418: Parent: Created child process 14940
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 14940:tid 364] AH00354: Child: Starting 64 worker threads.
+[Thu May 09 12:56:13.695859 2024] [mpm_winnt:notice] [pid 19236:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+: All worker threads have exited.
+[Thu May 09 12:56:34.042114 2024] [fcgid:error] [pid 14940] FastCGI process 7496 still did not exit, terminating forcefully
+[Thu May 09 12:56:35.047246 2024] [mpm_winnt:notice] [pid 19236:tid 376] AH00430: Parent: Child process 14940 exited successfully.
+[Thu May 09 12:56:40.783182 2024] [mpm_winnt:notice] [pid 16048:tid 380] AH00455: Apache/2.4.59 (Win64) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Thu May 09 12:56:40.783182 2024] [mpm_winnt:notice] [pid 16048:tid 380] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 09 12:56:40.783182 2024] [core:notice] [pid 16048:tid 380] AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24'
+[Thu May 09 12:56:40.786177 2024] [mpm_winnt:notice] [pid 16048:tid 380] AH00418: Parent: Created child process 8476
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 8476:tid 368] AH00354: Child: Starting 64 worker threads.
+[Thu May 09 12:58:55.341533 2024] [mpm_winnt:notice] [pid 16048:tid 380] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+[Thu May 09 12:58:57.363380 2024] [mpm_winnt:notice] [pid 8476:tid 368] AH00364: Child: All worker threads have exited.
+[Thu May 09 12:58:58.034809 2024] [mpm_winnt:notice] [pid 16048:tid 380] AH00430: Parent: Child process 8476 exited successfully.
+[Thu May 09 12:59:35.165822 2024] [mpm_winnt:notice] [pid 11096:tid 412] AH00455: Apache/2.4.59 (Win64) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Thu May 09 12:59:35.165822 2024] [mpm_winnt:notice] [pid 11096:tid 412] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 09 12:59:35.165822 2024] [core:notice] [pid 11096:tid 412] AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24'
+[Thu May 09 12:59:35.168822 2024] [mpm_winnt:notice] [pid 11096:tid 412] AH00418: Parent: Created child process 16480
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 16480:tid 380] AH00354: Child: Starting 64 worker threads.
+[Thu May 09 13:01:01.763236 2024] [mpm_winnt:notice] [pid 11096:tid 412] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+[Thu May 09 13:01:03.781310 2024] [mpm_winnt:notice] [pid 16480:tid 380] AH00364: Child: All worker threads have exited.
+[Thu May 09 13:01:03.941577 2024] [mpm_winnt:notice] [pid 11096:tid 412] AH00430: Parent: Child process 16480 exited successfully.
+[Thu May 09 13:01:06.315859 2024] [mpm_winnt:notice] [pid 19340:tid 356] AH00455: Apache/2.4.59 (Win64) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Thu May 09 13:01:06.315859 2024] [mpm_winnt:notice] [pid 19340:tid 356] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 09 13:01:06.315859 2024] [core:notice] [pid 19340:tid 356] AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24'
+[Thu May 09 13:01:06.318860 2024] [mpm_winnt:notice] [pid 19340:tid 356] AH00418: Parent: Created child process 17968
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 17968:tid 360] AH00354: Child: Starting 64 worker threads.
+[Thu May 09 13:02:32.073387 2024] [mpm_winnt:notice] [pid 19340:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+[Thu May 09 13:02:34.089365 2024] [mpm_winnt:notice] [pid 17968:tid 360] AH00364: Child: All worker threads have exited.
+[Thu May 09 13:02:34.140195 2024] [mpm_winnt:notice] [pid 19340:tid 356] AH00430: Parent: Child process 17968 exited successfully.
+[Thu May 09 13:02:36.309477 2024] [mpm_winnt:notice] [pid 15380:tid 372] AH00455: Apache/2.4.59 (Win64) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Thu May 09 13:02:36.309477 2024] [mpm_winnt:notice] [pid 15380:tid 372] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 09 13:02:36.309477 2024] [core:notice] [pid 15380:tid 372] AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24'
+[Thu May 09 13:02:36.313476 2024] [mpm_winnt:notice] [pid 15380:tid 372] AH00418: Parent: Created child process 11172
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 11172:tid 404] AH00354: Child: Starting 64 worker threads.
+[Thu May 09 13:02:49.609526 2024] [mpm_winnt:notice] [pid 15380:tid 372] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+[Thu May 09 13:02:51.622186 2024] [mpm_winnt:notice] [pid 11172:tid 404] AH00364: Child: All worker threads have exited.
+[Thu May 09 13:02:51.671157 2024] [mpm_winnt:notice] [pid 15380:tid 372] AH00430: Parent: Child process 11172 exited successfully.
+[Thu May 09 13:02:53.472812 2024] [mpm_winnt:notice] [pid 18288:tid 384] AH00455: Apache/2.4.59 (Win64) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Thu May 09 13:02:53.472812 2024] [mpm_winnt:notice] [pid 18288:tid 384] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 09 13:02:53.472812 2024] [core:notice] [pid 18288:tid 384] AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24'
+[Thu May 09 13:02:53.475813 2024] [mpm_winnt:notice] [pid 18288:tid 384] AH00418: Parent: Created child process 9756
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 9756:tid 396] AH00354: Child: Starting 64 worker threads.
+[Thu May 09 13:04:15.767556 2024] [mpm_winnt:notice] [pid 18288:tid 384] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+[Thu May 09 13:04:17.782084 2024] [mpm_winnt:notice] [pid 9756:tid 396] AH00364: Child: All worker threads have exited.
+[Thu May 09 13:04:18.299047 2024] [mpm_winnt:notice] [pid 18288:tid 384] AH00430: Parent: Child process 9756 exited successfully.
+[Thu May 09 13:09:07.476775 2024] [mpm_winnt:notice] [pid 10620:tid 356] AH00455: Apache/2.4.59 (Win64) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Thu May 09 13:09:07.476775 2024] [mpm_winnt:notice] [pid 10620:tid 356] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 09 13:09:07.476775 2024] [core:notice] [pid 10620:tid 356] AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24'
+[Thu May 09 13:09:07.479775 2024] [mpm_winnt:notice] [pid 10620:tid 356] AH00418: Parent: Created child process 9236
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 9236:tid 356] AH00354: Child: Starting 64 worker threads.
+[Thu May 09 13:11:20.480574 2024] [mpm_winnt:notice] [pid 10620:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 09 13:11:22.508880 2024] [mpm_winnt:notice] [pid 9236:tid 356] AH00364: Child: All worker threads have exited.
+[Thu May 09 13:11:30.950004 2024] [fcgid:error] [pid 9236] FastCGI process 18748 still did not exit, terminating forcefully
+[Thu May 09 13:11:31.967525 2024] [mpm_winnt:notice] [pid 10620:tid 356] AH00430: Parent: Child process 9236 exited successfully.
+[Thu May 09 13:11:42.648520 2024] [mpm_winnt:notice] [pid 5372:tid 356] AH00455: Apache/2.4.59 (Win64) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Thu May 09 13:11:42.648520 2024] [mpm_winnt:notice] [pid 5372:tid 356] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 09 13:11:42.648520 2024] [core:notice] [pid 5372:tid 356] AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24'
+[Thu May 09 13:11:42.651517 2024] [mpm_winnt:notice] [pid 5372:tid 356] AH00418: Parent: Created child process 16668
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 16668:tid 416] AH00354: Child: Starting 64 worker threads.
+[Thu May 09 13:14:22.133755 2024] [mpm_winnt:notice] [pid 5372:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+[Thu May 09 13:14:24.159843 2024] [mpm_winnt:notice] [pid 16668:tid 416] AH00364: Child: All worker threads have exited.
+[Thu May 09 13:14:32.605877 2024] [fcgid:error] [pid 16668] FastCGI process 7764 still did not exit, terminating forcefully
+[Thu May 09 13:14:33.610101 2024] [mpm_winnt:notice] [pid 5372:tid 356] AH00430: Parent: Child process 16668 exited successfully.
+[Thu May 09 13:14:35.617183 2024] [mpm_winnt:notice] [pid 5956:tid 356] AH00455: Apache/2.4.59 (Win64) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Thu May 09 13:14:35.618182 2024] [mpm_winnt:notice] [pid 5956:tid 356] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 09 13:14:35.618182 2024] [core:notice] [pid 5956:tid 356] AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24'
+[Thu May 09 13:14:35.620187 2024] [mpm_winnt:notice] [pid 5956:tid 356] AH00418: Parent: Created child process 18900
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 18900:tid 384] AH00354: Child: Starting 64 worker threads.
+[Thu May 09 13:15:34.980579 2024] [mpm_winnt:notice] [pid 5956:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+18900:tid 384] AH00364: Child: All worker threads have exited.
+[Thu May 09 13:15:46.443637 2024] [fcgid:error] [pid 18900] FastCGI process 18868 still did not exit, terminating forcefully
+[Thu May 09 13:15:47.448243 2024] [mpm_winnt:notice] [pid 5956:tid 356] AH00430: Parent: Child process 18900 exited successfully.
+[Thu May 09 13:15:50.100149 2024] [mpm_winnt:notice] [pid 18440:tid 368] AH00455: Apache/2.4.59 (Win64) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Thu May 09 13:15:50.100149 2024] [mpm_winnt:notice] [pid 18440:tid 368] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 09 13:15:50.100149 2024] [core:notice] [pid 18440:tid 368] AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24'
+[Thu May 09 13:15:50.103664 2024] [mpm_winnt:notice] [pid 18440:tid 368] AH00418: Parent: Created child process 17192
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 17192:tid 420] AH00354: Child: Starting 64 worker threads.
+[Thu May 09 13:16:54.314901 2024] [mpm_winnt:notice] [pid 18440:tid 368] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+[Thu May 09 13:16:56.329811 2024] [mpm_winnt:notice] [pid 17192:tid 420] AH00364: Child: All worker threads have exited.
+[Thu May 09 13:17:04.779535 2024] [fcgid:error] [pid 17192] FastCGI process 18076 still did not exit, terminating forcefully
+[Thu May 09 13:17:05.785967 2024] [mpm_winnt:notice] [pid 18440:tid 368] AH00430: Parent: Child process 17192 exited successfully.
+[Thu May 09 13:17:08.640928 2024] [mpm_winnt:notice] [pid 15324:tid 356] AH00455: Apache/2.4.59 (Win64) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Thu May 09 13:17:08.641928 2024] [mpm_winnt:notice] [pid 15324:tid 356] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 09 13:17:08.641928 2024] [core:notice] [pid 15324:tid 356] AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24'
+[Thu May 09 13:17:08.644448 2024] [mpm_winnt:notice] [pid 15324:tid 356] AH00418: Parent: Created child process 8096
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 8096:tid 412] AH00354: Child: Starting 64 worker threads.
+[Thu May 09 13:20:44.951568 2024] [mpm_winnt:notice] [pid 15324:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+ All worker threads have exited.
+[Thu May 09 13:20:55.443824 2024] [fcgid:error] [pid 8096] FastCGI process 5284 still did not exit, terminating forcefully
+[Thu May 09 13:20:56.459801 2024] [mpm_winnt:notice] [pid 15324:tid 356] AH00430: Parent: Child process 8096 exited successfully.
+[Thu May 09 13:20:58.880865 2024] [mpm_winnt:notice] [pid 2968:tid 388] AH00455: Apache/2.4.59 (Win64) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Thu May 09 13:20:58.880865 2024] [mpm_winnt:notice] [pid 2968:tid 388] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 09 13:20:58.880865 2024] [core:notice] [pid 2968:tid 388] AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24'
+[Thu May 09 13:20:58.883868 2024] [mpm_winnt:notice] [pid 2968:tid 388] AH00418: Parent: Created child process 20976
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 20976:tid 352] AH00354: Child: Starting 64 worker threads.
+[Thu May 09 13:24:40.059495 2024] [mpm_winnt:notice] [pid 2968:tid 388] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+[Thu May 09 13:24:42.088998 2024] [mpm_winnt:notice] [pid 20976:tid 352] AH00364: Child: All worker threads have exited.
+[Thu May 09 13:24:50.546949 2024] [fcgid:error] [pid 20976] FastCGI process 18676 still did not exit, terminating forcefully
+[Thu May 09 13:24:51.550927 2024] [mpm_winnt:notice] [pid 2968:tid 388] AH00430: Parent: Child process 20976 exited successfully.
+[Thu May 09 13:25:26.494927 2024] [mpm_winnt:notice] [pid 7664:tid 356] AH00455: Apache/2.4.59 (Win64) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Thu May 09 13:25:26.494927 2024] [mpm_winnt:notice] [pid 7664:tid 356] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 09 13:25:26.494927 2024] [core:notice] [pid 7664:tid 356] AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24'
+[Thu May 09 13:25:26.497934 2024] [mpm_winnt:notice] [pid 7664:tid 356] AH00418: Parent: Created child process 19260
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 19260:tid 388] AH00354: Child: Starting 64 worker threads.
+[Thu May 09 13:26:14.009869 2024] [mpm_winnt:notice] [pid 7664:tid 356] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 19260:tid 388] AH00364: Child: All worker threads have exited.
+[Thu May 09 13:26:24.518272 2024] [fcgid:error] [pid 19260] FastCGI process 7540 still did not exit, terminating forcefully
+[Thu May 09 13:26:25.531541 2024] [mpm_winnt:notice] [pid 7664:tid 356] AH00430: Parent: Child process 19260 exited successfully.
+[Thu May 09 13:26:31.132915 2024] [mpm_winnt:notice] [pid 20132:tid 368] AH00455: Apache/2.4.59 (Win64) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Thu May 09 13:26:31.133917 2024] [mpm_winnt:notice] [pid 20132:tid 368] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 09 13:26:31.133917 2024] [core:notice] [pid 20132:tid 368] AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24'
+[Thu May 09 13:26:31.135916 2024] [mpm_winnt:notice] [pid 20132:tid 368] AH00418: Parent: Created child process 15640
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 15640:tid 392] AH00354: Child: Starting 64 worker threads.
+[Thu May 09 13:29:33.062436 2024] [mpm_winnt:notice] [pid 20132:tid 368] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 09 13:29:35.083651 2024] [mpm_winnt:notice] [pid 15640:tid 392] AH00364: Child: All worker threads have exited.
+[Thu May 09 13:29:43.547346 2024] [fcgid:error] [pid 15640] FastCGI process 11460 still did not exit, terminating forcefully
+[Thu May 09 13:29:44.561994 2024] [mpm_winnt:notice] [pid 20132:tid 368] AH00430: Parent: Child process 15640 exited successfully.
+[Thu May 09 13:30:00.360765 2024] [mpm_winnt:notice] [pid 5092:tid 380] AH00455: Apache/2.4.59 (Win64) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Thu May 09 13:30:00.360765 2024] [mpm_winnt:notice] [pid 5092:tid 380] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 09 13:30:00.360765 2024] [core:notice] [pid 5092:tid 380] AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24'
+[Thu May 09 13:30:00.363290 2024] [mpm_winnt:notice] [pid 5092:tid 380] AH00418: Parent: Created child process 16380
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 16380:tid 360] AH00354: Child: Starting 64 worker threads.
+[Thu May 09 13:31:06.308708 2024] [mpm_winnt:notice] [pid 5092:tid 380] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+Apache server interrupted...
+[Thu May 09 13:31:08.317869 2024] [mpm_winnt:notice] [pid 16380:tid 360] AH00364: Child: All worker threads have exited.
+[Thu May 09 13:31:16.783380 2024] [fcgid:error] [pid 16380] FastCGI process 18696 still did not exit, terminating forcefully
+[Thu May 09 13:31:17.789724 2024] [mpm_winnt:notice] [pid 5092:tid 380] AH00430: Parent: Child process 16380 exited successfully.
+[Thu May 09 14:03:50.633253 2024] [mpm_winnt:notice] [pid 20632:tid 424] AH00455: Apache/2.4.59 (Win64) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Thu May 09 14:03:50.634248 2024] [mpm_winnt:notice] [pid 20632:tid 424] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 09 14:03:50.634248 2024] [core:notice] [pid 20632:tid 424] AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24'
+[Thu May 09 14:03:50.636247 2024] [mpm_winnt:notice] [pid 20632:tid 424] AH00418: Parent: Created child process 9396
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 9396:tid 368] AH00354: Child: Starting 64 worker threads.
+[Thu May 09 14:03:59.025850 2024] [authz_core:error] [pid 9396:tid 1004] [client ::1:55282] AH01630: client denied by server configuration: D:/Angelp/www/Apache/Apache24/htdocs/.env
+[Thu May 09 14:03:59.025850 2024] [authz_core:error] [pid 9396:tid 1004] [client ::1:55282] AH01630: client denied by server configuration: D:/Angelp/www/Apache/Apache24/htdocs/.env.example
+[Thu May 09 14:03:59.025850 2024] [authz_core:error] [pid 9396:tid 1004] [client ::1:55282] AH01630: client denied by server configuration: D:/Angelp/www/Apache/Apache24/htdocs/.env.prod
+[Thu May 09 14:04:17.091520 2024] [mpm_winnt:notice] [pid 20632:tid 424] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 09 14:04:19.110084 2024] [mpm_winnt:notice] [pid 9396:tid 368] AH00364: Child: All worker threads have exited.
+[Thu May 09 14:04:19.161048 2024] [mpm_winnt:notice] [pid 20632:tid 424] AH00430: Parent: Child process 9396 exited successfully.
+[Thu May 09 14:05:04.115191 2024] [mpm_winnt:notice] [pid 17228:tid 364] AH00455: Apache/2.4.59 (Win64) mod_fcgid/2.3.9a configured -- resuming normal operations
+[Thu May 09 14:05:04.116192 2024] [mpm_winnt:notice] [pid 17228:tid 364] AH00456: Apache Lounge VS17 Server built: Apr  4 2024 15:03:17
+[Thu May 09 14:05:04.116192 2024] [core:notice] [pid 17228:tid 364] AH00094: Command line: 'D:\\Angelp\\www\\Apache\\Apache24\\bin\\httpd.exe -d D:/Angelp/www/Apache/Apache24'
+[Thu May 09 14:05:04.118192 2024] [mpm_winnt:notice] [pid 17228:tid 364] AH00418: Parent: Created child process 17568
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 17568:tid 376] AH00354: Child: Starting 64 worker threads.
+[Thu May 09 14:07:39.904734 2024] [mpm_winnt:notice] [pid 17228:tid 364] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 09 14:07:41.922569 2024] [mpm_winnt:notice] [pid 17568:tid 376] AH00364: Child: All worker threads have exited.
+[Thu May 09 14:07:50.409844 2024] [fcgid:error] [pid 17568] FastCGI process 24340 still did not exit, terminating forcefully
+[Thu May 09 14:07:50.409844 2024] [fcgid:error] [pid 17568] FastCGI process 16476 still did not exit, terminating forcefully
+[Thu May 09 14:07:51.414889 2024] [mpm_winnt:notice] [pid 17228:tid 364] AH00430: Parent: Child process 17568 exited successfully.
